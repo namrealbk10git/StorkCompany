@@ -1,0 +1,3 @@
+include ':TimeStork'
+include ':app'
+rootProject.name = "StorkCompany"
